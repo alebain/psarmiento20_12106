@@ -1,0 +1,6 @@
+[user]
+	name = Alejandra Bain
+	email = alebain@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
